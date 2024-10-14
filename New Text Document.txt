@@ -1,14 +1,1 @@
-include <stdio.h>
-#include <tring.h>
-struct Student{
-	char id[10];
-	char name[30];
-	int age;
-	float gpa;
-};
-int main() {
-	struct student[50];
-	print("NHAP THONG TIN SINH VIEN THU %d:\n");
-	
-	
-}
+
